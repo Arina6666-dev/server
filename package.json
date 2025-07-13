@@ -19,9 +19,12 @@
     "pg": "^8.14.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.10",
     "@types/pg": "^8.11.11",
     "@typescript-eslint/eslint-plugin": "^8.33.0",
     "@typescript-eslint/parser": "^8.33.0",
+    "allure-playwright": "^3.3.0",
     "bun-types": "latest",
     "drizzle-kit": "^0.30.6",
     "eslint": "^9.28.0",
